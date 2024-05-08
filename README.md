@@ -4,8 +4,8 @@
 PHP, Tailwind CSS, Sass, PostCSS, Webpack boilerplate.
 
 ## File structure
-- src/css/_reserved/styles.css - auto-generated CSS by tailwind watch script (don't edit),
 - src/css/_reserved/main.css - auto-generated CSS by Sass watch script (don't edit),
+- src/css/_reserved/styles.css - auto-generated CSS by tailwind watch script (don't edit),
 - src/css/main.scss - place your CSS here,
 - src/css/tailwind.css - place tailwind functions, directives, etc. here,
 - src/js/script.js - place your JavaScript here,
